@@ -33,7 +33,7 @@ A modern food-sharing platform built with Next.js, featuring image sharing, comm
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/foodshare-nextjs.git
+   git clone https://github.com/sepehrshahinfar/foodshare-nextjs.git
    cd foodshare-nextjs
 
    ```
